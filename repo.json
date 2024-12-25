@@ -1,0 +1,8 @@
+{
+    "name": "CloudStream Repo by Mehrab Mahmud Udoy (Ferris)",
+    "description": "CloudStream Repository backup repo by Mehrab Mahmud Udoy (Ferris), https://t.me/itsrimehrab",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/rimehrab/cloudstream-extensions/refs/heads/builds/plugins.json"
+    ]
+  }
